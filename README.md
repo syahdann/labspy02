@@ -101,7 +101,7 @@ bulan berjalan usahanya.
 
 ![IF 3](https://user-images.githubusercontent.com/115516758/200156243-314db7b9-d333-423d-a1d7-0443e06ae5c2.PNG)
 
-- PADA IF YANG TERAKHIR PENGUSAHA MENGALAMU KERUGIAN SEBESAR 2%
+- PADA IF YANG TERAKHIR PENGUSAHA MENGALAMI KERUGIAN SEBESAR 2%
 
 ![IF 4](https://user-images.githubusercontent.com/115516758/200156251-be27a438-8a3e-488e-99f6-6ff37af1c918.PNG)
 
